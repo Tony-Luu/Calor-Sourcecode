@@ -9,7 +9,8 @@ public class TL_VideoPlayerURL : MonoBehaviour
 
     void Awake()
     {
-        Video.url = System.IO.Path.Combine(Application.streamingAssetsPath, VideoClipName + ".mp4");
+        Video.url = System.IO.Path.Combine(Application.streamingAssetsPath, VideoClipName);
+        Video.Prepare();
         Video.Play();
     }
 
