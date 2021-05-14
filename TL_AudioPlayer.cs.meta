@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d004a9d3c7feb04f804ae51dc69a269
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - IndoorAmbienceBGM: {fileID: 8300000, guid: d5bfee2fe5454684f9c496b220cc1c11, type: 3}
+  - SnowyAreaBGM: {fileID: 8300000, guid: 1edc4ef5cbf9ee74cb7a768ae6bc4b9a, type: 3}
+  - IceCaveBGM: {fileID: 8300000, guid: 289f1c8fc5af0c542b669b82be358ff8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
